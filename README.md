@@ -1,2 +1,2 @@
 # chocolate-pizza
-initial setup fro chocolate pizza lab assignment 
+initial setup for chocolate pizza lab assignment 
