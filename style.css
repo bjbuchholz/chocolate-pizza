@@ -10,6 +10,7 @@
 }
 h1 {
 font-family: 'Pacifico', cursive;
+font-style: italic;
 font-size: 28px;
 margin-top: 0px;
 width: 75%;
@@ -66,6 +67,9 @@ h2{
 .list {
    position: relative;
    width: 100%;
-   list-style-type: circle;
-   position: absolute;
+
+}
+<ul {
+  list-style-type: circle;
+  position: absolute;
 }
