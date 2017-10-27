@@ -1,6 +1,71 @@
 * {
  font-family: Helvetica , blue;
  font-size: 12px;
- background-color: #B6DFE8;
+ background-color: #F3ECE8;
  box-sizing: border-box;
+}
+.wholepage{
+  width:75%;
+  margin:auto;
+}
+h1 {
+font-family: 'Pacifico', cursive;
+font-size: 28px;
+margin-top: 0px;
+width: 75%;
+}
+p {
+  font-size: 10px;
+  margin-top: 0px;
+}
+
+#logo {
+  display: inline;
+  float: left;
+  margin-top: 10px;
+  margin-right: 5px;
+}
+
+#socialtags {
+  display: inline;
+  float: right;
+  margin-top: 10px;
+}
+#linebar {
+  background-repeat: repeat-x;
+  width: 90%;
+}
+h2{
+  font-size: 26px;
+  margin-top: 20px;
+}
+#printlogo{
+  display: inline;
+  float: right;
+  margin-top: 50px;
+}
+
+#chocopizza{
+  margin: 10px, 50px;
+}
+
+#recipe {
+  text-indent: 50px;
+  font-size: 18px;
+  margin-top: 25px;
+}
+#recipe2 {
+  text-indent: 50px;
+  font-size: 18px;
+}
+#recipe3 {
+  text-indent: 50px;
+  font-size: 18px;
+}
+
+.list {
+   position: relative;
+   width: 100%;
+   list-style-type: circle;
+   position: absolute;
 }
